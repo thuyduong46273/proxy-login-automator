@@ -242,3 +242,4 @@ Note: anyway, the local proxy/PAC server is always served as a HTTP server.
 This tool support WebSocket if the real proxy server supports.
 
 Good luck
+kill
